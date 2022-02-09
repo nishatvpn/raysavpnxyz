@@ -2,10 +2,10 @@
 cp /usr/share/zoneinfo/Asia/riyadh /etc/localtime
 
 #Database Details
-db_host='209.159.152.66';
-db_user='crypticv_xctunnel';
-db_pass='@@@@F1r3n3t';
-db_name='crypticv_xctunnel';
+db_host='82.223.165.66';
+db_user='raysapan_raysa';
+db_pass='@@Raysa123';
+db_name='raysapan_raysa';
 
 install_require()
 {
